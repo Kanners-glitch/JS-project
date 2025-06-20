@@ -24,6 +24,7 @@ Dibuat sebagai bagian dari perjalanan pribadi memahami dasar-dasar pemrograman w
 ## 🧪 Mini Projects
 
 - ✅ Counter App
+- ✅ Likes and Dislikes Counter App
 - ✅ Dice Roller 🎲
 - ✅ Number Guessing Game 🔢
 - ✅ Digital Clock 🕒
