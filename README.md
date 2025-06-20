@@ -47,6 +47,3 @@ Dibuat sebagai bagian dari perjalanan pribadi memahami dasar-dasar pemrograman w
 Menguasai JavaScript dasar agar siap lanjut ke framework modern seperti **React.js**, serta mampu membangun aplikasi web interaktif dari nol.
 
 ---
-
-## 📂 Struktur Folder
-
