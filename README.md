@@ -24,6 +24,7 @@ Dibuat sebagai bagian dari perjalanan pribadi memahami dasar-dasar pemrograman w
 ## 🧪 Mini Projects
 
 - ✅ Counter-Program
+- https://github.com/Kanners-glitch/JS-project/tree/0ef6da19dc348c5a7bf3b9317a46e48ecf4b0a65/Counter-Program
 - ✅ Likes and Dislikes Counter App
 - ✅ Dice Roller 🎲
 - ✅ Number Guessing Game 🔢
