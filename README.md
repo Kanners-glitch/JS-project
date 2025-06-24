@@ -69,4 +69,13 @@
 ---
 ## ⚙️ Cara Menjalankan
 1. Clone repositori ini:
- ```git clone https://github.com/username/belajar-javascript.git
+```bash
+git clone https://github.com/username/belajar-javascript.git
+cd belajar-javascript
+```
+2. Buka folder projek
+```bash
+cd belajar-javascript
+```
+3. Jalankan file HTML di browser secara langsung, atau gunakan Live Server (VS Code Extension) untuk pengalaman lebih baik.
+
