@@ -47,11 +47,17 @@
 
 ---
 
-## 📓Catatan Pembelajaran
+## 📓 Catatan Pembelajaran
 - Semua project ditulis menggunakan JavaScript Vanilla (tanpa library) agar benar-benar memahami konsep inti.
 - Menggunakan console.log() dan alert() sebagai alat debugging selama proses belajar.
 - Style dibuat minimalis dengan CSS dasar, fokus pada logika JavaScript.
 - Beberapa proyek menggunakan prompt() dan confirm() untuk interaksi sederhana.
+
+---
+## 🛠️ Teknologi yang Digunakan
+- 🌐 HTML5
+- 🎨 CSS3 (basic styling)
+- ⚙️ JavaScript (Vanilla)
 
 ---
 ## 🧪 Mini Projects
@@ -61,12 +67,13 @@
 | 01 | Counter Program            | Hitung naik-turun angka dengan tombol.             |
 | 02 | Random Number Generator    | Menghasilkan angka acak dalam rentang tertentu.    |
 | 03 | Age Verification Checker   | Verifikasi usia untuk akses konten tertentu.       |
-| 04 | Likes & Dislikes Counter   | Sistem tombol suka/tidak suka.                     |
-| 05 | Dice Roller 🎲             | Simulasi pelemparan dadu 1–6.                      |
-| 06 | Number Guessing Game 🔢    | Game menebak angka dengan umpan balik logis.       |
-| 07 | Digital Clock 🕒           | Jam digital real-time menggunakan `setInterval()`. |
-| 08 | Kalkulator Dasar ➕➖       | Kalkulator dengan operasi dasar.                   |
-| 09 | Rock Paper Scissors ✂️     | Game suit klasik melawan komputer.                 |
+| 04 | Checked Property           | validasi check dan uncheck.                        |
+| 05 | Likes & Dislikes Counter   | Sistem tombol suka/tidak suka.                     |
+| 06 | Dice Roller 🎲             | Simulasi pelemparan dadu 1–6.                      |
+| 07 | Number Guessing Game 🔢    | Game menebak angka dengan umpan balik logis.       |
+| 08 | Digital Clock 🕒           | Jam digital real-time menggunakan `setInterval()`. |
+| 09 | Kalkulator Dasar ➕➖       | Kalkulator dengan operasi dasar.                   |
+| 10 | Rock Paper Scissors ✂️     | Game suit klasik melawan komputer.                 |
 
 📁 Setiap proyek memiliki folder tersendiri berisi:
 - `index.html`
