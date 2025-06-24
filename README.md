@@ -47,7 +47,7 @@
 
 ---
 
-## Catatan Pembelajaran
+## 📓Catatan Pembelajaran
 - Semua project ditulis menggunakan JavaScript Vanilla (tanpa library) agar benar-benar memahami konsep inti.
 - Menggunakan console.log() dan alert() sebagai alat debugging selama proses belajar.
 - Style dibuat minimalis dengan CSS dasar, fokus pada logika JavaScript.
