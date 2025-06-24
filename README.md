@@ -67,6 +67,6 @@
 - `script.js`
 
 ---
-##⚙️ Cara Menjalankan
+## ⚙️ Cara Menjalankan
 1. Clone repositori ini:
- git clone https://github.com/username/belajar-javascript.git
+ ```git clone https://github.com/username/belajar-javascript.git
