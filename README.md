@@ -71,7 +71,7 @@
 1. Clone repositori ini:
 ```bash
 git clone https://github.com/username/belajar-javascript.git
-cd belajar-javascript
+
 ```
 2. Buka folder projek
 ```bash
