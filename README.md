@@ -25,8 +25,7 @@ Dibuat sebagai bagian dari perjalanan pribadi memahami dasar-dasar pemrograman w
 
 - ✅ Counter-Program
 - https://github.com/Kanners-glitch/JS-project/tree/0ef6da19dc348c5a7bf3b9317a46e48ecf4b0a65/Counter-Program
-- ✅ Random number generator
-- https://github.com/Kanners-glitch/JS-project/tree/58330f3f509df78230eaf0d9ca7e5fdba409efa1/Random%20number%20generator
+- ✅ Random number generator (https://github.com/Kanners-glitch/JS-project/tree/58330f3f509df78230eaf0d9ca7e5fdba409efa1/Random%20number%20generator)
 - ✅ Likes and Dislikes Counter App
 - ✅ Dice Roller 🎲
 - ✅ Number Guessing Game 🔢
