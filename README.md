@@ -25,6 +25,7 @@ Dibuat sebagai bagian dari perjalanan pribadi memahami dasar-dasar pemrograman w
 
 - ✅ Counter-Program
 - ✅ Random number generator
+- ✅ Age verification
 - ✅ Likes and Dislikes Counter App
 - ✅ Dice Roller 🎲
 - ✅ Number Guessing Game 🔢
