@@ -1,6 +1,6 @@
 # 📘 Belajar JavaScript dari Nol
 
-![Status](https://img.shields.io/badge/Progress-Completed-blue)
+![Status](https://img.shields.io/badge/Progress-WIP-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Made with](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
 
