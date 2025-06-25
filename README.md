@@ -68,6 +68,7 @@
 | 02 | Random Number Generator    | Menghasilkan angka acak dalam rentang tertentu.    |
 | 03 | Age Verification Checker   | Verifikasi usia untuk akses konten tertentu.       |
 | 04 | Checked Property           | validasi check dan uncheck.                        |
+| 05 | Username validator          | validasi check dan uncheck.                        |
 | 05 | Likes & Dislikes Counter   | Sistem tombol suka/tidak suka.                     |
 | 06 | Dice Roller 🎲             | Simulasi pelemparan dadu 1–6.                      |
 | 07 | Number Guessing Game 🔢    | Game menebak angka dengan umpan balik logis.       |
