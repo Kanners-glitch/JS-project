@@ -69,12 +69,12 @@
 | 03 | Age Verification Checker   | Verifikasi usia untuk akses konten tertentu.       |
 | 04 | Checked Property           | validasi check dan uncheck.                        |
 | 05 | Username validator          | Cek apakah username menggunakan String methods     |
-| 05 | Likes & Dislikes Counter   | Sistem tombol suka/tidak suka.                     |
-| 06 | Dice Roller 🎲             | Simulasi pelemparan dadu 1–6.                      |
-| 07 | Number Guessing Game 🔢    | Game menebak angka dengan umpan balik logis.       |
-| 08 | Digital Clock 🕒           | Jam digital real-time menggunakan `setInterval()`. |
-| 09 | Kalkulator Dasar ➕➖       | Kalkulator dengan operasi dasar.                   |
-| 10 | Rock Paper Scissors ✂️     | Game suit klasik melawan komputer.                 |
+| 06 | Likes & Dislikes Counter   | Sistem tombol suka/tidak suka.                     |
+| 07 | Dice Roller 🎲             | Simulasi pelemparan dadu 1–6.                      |
+| 08 | Number Guessing Game 🔢    | Game menebak angka dengan umpan balik logis.       |
+| 09 | Digital Clock 🕒           | Jam digital real-time menggunakan `setInterval()`. |
+| 10 | Kalkulator Dasar ➕➖       | Kalkulator dengan operasi dasar.                   |
+| 11 | Rock Paper Scissors ✂️     | Game suit klasik melawan komputer.                 |
 
 📁 Setiap proyek memiliki folder tersendiri berisi:
 - `index.html`
