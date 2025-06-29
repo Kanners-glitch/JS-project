@@ -1,17 +1,44 @@
-const myText = document.getElementById("myText");
-const mySubmit = document.getElementById("mySubmit");
+const nameInput = document.getElementById("nameInput");
+const scoreInput = document.getElementById("scoreInput");
+const submitBtn = document.getElementById("submitBtn");
 const output = document.getElementById("output");
 
-mySubmit.onclick = function () {
-    let userName = myText.value.trim(); // ambil input + hapus spasi
-    let upperName = userName.toUpperCase(); // ubah jadi huruf besar semua
-    let nameLength = userName.length; // hitung panjang nama
-    let hasA = userName.toLowerCase().includes("a"); // cek apakah ada huruf 'a'
+submitBtn.onclick = function () {
+    // Ambil nilai input
+    let userName = nameInput.value.trim(); // ambil dan hapus spasi
+    let score = Number(scoreInput.value);  // konversi nilai ke number
 
+    // Validasi input
+    if (userName === "" || isNaN(score)) {
+        output.innerHTML = "Tolong isi nama dan nilai dengan benar.";
+        return;
+    }
+
+    // Buat data lainnya
+    let upperName = userName.toUpperCase();
+    let nameLength = userName.length;
+    let status = score >= 75 ? "Lulus ✅" : "Gagal ❌";
+
+    // Predikat nilai
+    let predikat = "";
+    if (score >= 90) {
+        predikat = "A";
+    } else if (score >= 80) {
+        predikat = "B";
+    } else if (score >= 70) {
+        predikat = "C";
+    } else if (score >= 60) {
+        predikat = "D";
+    } else {
+        predikat = "E";
+    }
+
+    // Tampilkan hasil
     output.innerHTML = `
-        Nama kamu: ${userName} <br>
-        Huruf kapital: ${upperName} <br>
-        Panjang nama: ${nameLength} karakter<br>
-        Mengandung huruf "a": ${hasA ? "Iya" : "Tidak"}
+        Nama kamu: ${userName}<br>
+        Huruf kapital: ${upperName}<br>
+        Jumlah huruf: ${nameLength}<br>
+        Status: ${status}<br>
+        Predikat: ${predikat}
     `;
 }
