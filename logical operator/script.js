@@ -1,19 +1,34 @@
-const ageInput = document.getElementById("ageInput")
-const parentPermission = document.getElementById("parentPermission");
-const submitBtn = document.getElementById("submitBtn")
-const output = document.getElementById("output")
+// // logical operator
 
-submitBtn.onclick = function () {
-    const age = Number(ageInput.value);
-    const izinOrtu = parentPermission.checked;
 
-    if (age >= 18) {
-        output.textContent = "✅ Kamu boleh masuk karna sudah 18+"
-    } else if (age >= 13 && izinOrtu) {
-        output.textContent = "✅ Kamu boleh masuk karna sudah izin ortu"
-    } else if (age >= 13 && !izinOrtu) {
-        output.textContent = "❎ Kamu belum bisa masuk karna belum izin ortu"
-    } else {
-        output.textContent = "❎ maaf kamu belum bisa masuk"
-    }
+ 
+// // 1. `&&` → **AND** (*dan*) 
+// //✅ Hanya akan **true** jika **kedua kondisi bernilai true**.
+
+// // contoh &&
+
+// const temp = 20;
+
+// if (temp > 0 && temp <= 30 ) {
+//     console.log("cuaca nya bagus")
+// } else {
+//     console.log("cuaca nya kurang bagus")
+// }
+
+// //contoh ||
+
+
+// if (temp > 0 || temp <= 30 ) {
+//     console.log("cuaca nya bagus")
+// } else {
+//     console.log("cuaca nya kurang bagus")
+// }
+
+const tempt = 35;
+
+if(tempt <= 0 || tempt > 30){
+    console.log("The weather is BAD");
+}
+else{
+    console.log("The weather is GOOD");
 }
