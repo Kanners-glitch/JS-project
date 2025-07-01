@@ -74,6 +74,7 @@
 | 08 | Number Guessing Game 🔢    | Game menebak angka dengan umpan balik logis.       |
 | 09 | Digital Clock 🕒           | Jam digital real-time menggunakan `setInterval()`. |
 | 10 | Kalkulator Dasar ➕➖       | Kalkulator dengan operasi dasar.                   |
+| 11 | Temperature Conversion     | menghitung temperatur dari celcius ke fahrenheit and vice versa           |
 | 11 | Rock Paper Scissors ✂️     | Game suit klasik melawan komputer.                 |
 
 📁 Setiap proyek memiliki folder tersendiri berisi:
